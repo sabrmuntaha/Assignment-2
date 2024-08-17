@@ -344,7 +344,7 @@ background-color:rgba(255, 255, 255, 0.1) ;
     display: grid;
     grid-template-columns: repeat(3,1fr);
     gap: 24px;
-    display: ;
+    
     
    }
 .trainer-part2{
@@ -404,3 +404,4 @@ max-width: 1300px;
 .final-des{
     padding: 100px;
 }
+
